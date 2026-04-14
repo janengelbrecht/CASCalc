@@ -9,6 +9,9 @@ symbolic mathematics, variable storage, history navigation, unit
 conversions, physical constants, and an interactive GUI with 2nd
 function keys.
 
+If you download the code ZIP file there is a Windows EXE file
+that you can run on Windows.
+
 ## Table of Contents
 
 1. Overview
